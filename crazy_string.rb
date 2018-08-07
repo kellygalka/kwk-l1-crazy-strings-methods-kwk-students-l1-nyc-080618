@@ -6,4 +6,3 @@ friend = friend.swapcase.gsub("s","z")
 return "#{hello} #{friend}"
 end
 
-crazy_strings ("hello)
