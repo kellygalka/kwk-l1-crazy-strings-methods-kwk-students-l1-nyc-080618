@@ -3,5 +3,5 @@
 def crazy_strings(hello,friends)
 hello = hello.upcase.reverse
 friends = friends.swapcase
-return "#{hello} filter_parameter_logging#{friends}"
+return "#{hello} #{friends}"
 end
